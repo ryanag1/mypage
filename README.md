@@ -4,7 +4,7 @@
 
 
 ***
-## 1. WebRTC in LAN and WAN: Comparing RTT measured continuously in LAN and WAN
+## 1. WebRTC in LAN and WAN: Comparing RTT(Round Trip Time) measured continuously in LAN and WAN
 ### 1.1 System 
 ![2022-05-26 (10)](https://user-images.githubusercontent.com/106264576/171651980-ee8735cb-7aaf-4b95-bd25-e8692ed5dc9a.png)
 ### 1.2 RTT measurement
