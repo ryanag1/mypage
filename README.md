@@ -1,6 +1,6 @@
 ## Two different experiments with https://github.com/ryanag1/Experiments-and-system-integration
 ### Basic system consisting of NGINX, Vue.js, Ducts(Python backend server), and Redis by Docker-Compose
-### This system was used as a basic system to conduct experiments.
+### This system was used as the basic system to conduct experiments.
 ![スライド4](https://user-images.githubusercontent.com/106264576/171650401-e4aeb6b3-baea-456b-9907-e29d119001ed.PNG)
 
 
