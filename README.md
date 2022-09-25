@@ -19,7 +19,7 @@
 
 ***
 
-## 2. Realtime communications in Unity with Client/Server model
+## 2. Real-time communications in Unity with Client/Server model
 ![スライド2](https://user-images.githubusercontent.com/106264576/171650420-20f6a3bd-cb60-4849-a4c4-3ad224ba0324.PNG)
 ![スライド3](https://user-images.githubusercontent.com/106264576/171650432-c4a167da-0e32-4f2c-9443-1f66e65f9cfe.PNG)
 
