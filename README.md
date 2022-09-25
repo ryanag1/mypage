@@ -14,7 +14,7 @@
 ![2022-05-26 (12)](https://user-images.githubusercontent.com/106264576/171652130-08f093ee-2e1c-4c4f-94dd-39f76e17e6bb.png)
 ![2022-05-26 (14)](https://user-images.githubusercontent.com/106264576/171652185-6739e5ff-7fcf-40fe-bce1-6a050486db2e.png)
 ### 1.4 RTT measurement results 
-### Left: LAN, Right: WAN
+### Left: LAN(Local Area Network), Right: WAN(Wide Area Network)
 ### Vertical axis: RTT, Horizontal axis: Timestamp 
 ![2022-05-26 (15)](https://user-images.githubusercontent.com/106264576/171652218-5963c002-9ed4-4fbe-8594-c9113a61ea86.png)
 
