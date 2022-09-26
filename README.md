@@ -33,5 +33,5 @@ Next, another experiment
 ### Two different windows represent multiple players. 
 https://user-images.githubusercontent.com/106264576/171651818-ad5d369a-7e58-4fe5-8f04-e366d79bca6d.mp4
 #### First, Right side player's key input is shared with left side player.
-#### Second, mouse cursol is moving to Left side window.
+#### Second, mouse cursor moved to Left side window.
 #### Finally, Left side player's key input is shared with Right side player.
